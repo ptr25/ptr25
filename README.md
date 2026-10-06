@@ -35,5 +35,3 @@
 ### UX/UI
 
 ![](https://img.shields.io/badge/FIGMA-ffb3d9?style=for-the-badge&logo=figma&logoColor=F24E1E) ![](https://img.shields.io/badge/-WIX-ffb3d9?style=for-the-badge&labelColor=ffb3d9&logo=wix&logoColor=1B1B1B)
-
-▶ Some of My Toys 🧸⭐
