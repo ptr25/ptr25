@@ -5,10 +5,10 @@
    values="m10,40 h0 ; m10,40 h423.84 ; m10,40 h423.84 ; m10,40 h0"
    keyTimes="0;0.64;0.84;1"/>
  </path>
- <text font-family="'DJSM', monospace" fill="#ffffff" font-size="32">
+ <text font-family="'DJSM', monospace" fill="#1f2328" font-size="32">
   <textPath xlink:href="#p0">hi lol, im pranathi :)</textPath>
  </text>
- <rect x="13" y="16" width="15" height="28" fill="#ffffff">
+ <rect x="13" y="16" width="15" height="28" fill="#1f2328">
   <animate attributeName="x" begin="0s;c0.end" dur="4000ms" fill="remove"
    values="13;436.84;436.84;13"
    keyTimes="0;0.64;0.84;1" id="c0"/>
