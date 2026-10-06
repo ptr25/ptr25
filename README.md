@@ -1,8 +1,4 @@
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-white.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-pink.svg">
-  <img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-white.svg" alt="hi lol, im pranathi :)" width="460">
-</picture>
+<img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hello-pink.svg" alt="hello world - im pranathi" width="660">
 
 ❀° Im just a girl °❀⋆
 
