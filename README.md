@@ -1,7 +1,7 @@
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi.svg?v=2">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-light.svg?v=2">
-  <img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hi.svg?v=2" alt="hi lol, im pranathi :)" width="460">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-text.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-text-light.svg">
+  <img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-text.svg" alt="hi lol, im pranathi :)" width="460">
 </picture>
 
 <picture>
