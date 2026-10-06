@@ -4,7 +4,7 @@
   <img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-white.svg" alt="hi lol, im pranathi :)" width="460">
 </picture>
 
-❀° hello world - im pranathi °❀⋆
+❀° Im just a girl °❀⋆
 
 ༘˚⋆𐙚｡ I am a 3rd year btech in cse at Indian Institute of Information Technology Kottayam  ᝰ.ᐟ
 
