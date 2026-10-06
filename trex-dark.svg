@@ -1,10 +1,10 @@
 <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-label="Pink T-Rex jumping over blocks">
   <style>
-    .bg{fill:#ffffff}
-    .pink{fill:#ff69b4}
-    .eye{fill:#24292f}
-    .ground{stroke:#d0d7de;stroke-width:3}
-    .dash{fill:#d0d7de}
+    .bg{fill:#0d1117}
+    .pink{fill:#ffb3d9}.block{fill:#ff69b4}
+    .eye{fill:#161b22}
+    .ground{stroke:#30363d;stroke-width:3}
+    .dash{fill:#30363d}
     .scroll{animation:scroll 4s linear infinite}
     @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-1000px)}}
     .gscroll{animation:gscroll .16s linear infinite}
@@ -30,12 +30,12 @@
   <rect class="bg" x="0" y="0" width="800" height="220"/>
 
   <g class="scroll">
-    <rect class="pink" x="230" y="156" width="18" height="24" rx="2"/>
-    <rect class="pink" x="580" y="140" width="20" height="40" rx="2"/>
-    <rect class="pink" x="930" y="152" width="24" height="28" rx="2"/>
-    <rect class="pink" x="1230" y="156" width="18" height="24" rx="2"/>
-    <rect class="pink" x="1580" y="140" width="20" height="40" rx="2"/>
-    <rect class="pink" x="1930" y="152" width="24" height="28" rx="2"/>
+    <rect class="block" x="230" y="156" width="18" height="24" rx="2"/>
+    <rect class="block" x="580" y="140" width="20" height="40" rx="2"/>
+    <rect class="block" x="930" y="152" width="24" height="28" rx="2"/>
+    <rect class="block" x="1230" y="156" width="18" height="24" rx="2"/>
+    <rect class="block" x="1580" y="140" width="20" height="40" rx="2"/>
+    <rect class="block" x="1930" y="152" width="24" height="28" rx="2"/>
   </g>
 
   <line class="ground" x1="0" y1="181" x2="800" y2="181"/>

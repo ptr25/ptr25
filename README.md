@@ -1,13 +1,17 @@
-<img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-name.svg" alt="hi lol, im pranathi :)" width="460">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-white.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-pink.svg">
+  <img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hi-white.svg" alt="hi lol, im pranathi :)" width="460">
+</picture>
 
 ❀° hello world - im pranathi °❀⋆
 
 ༘˚⋆𐙚｡ I am a 3rd year btech in cse at Indian Institute of Information Technology Kottayam  ᝰ.ᐟ
 
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/dino-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/dino-light.svg">
-  <img alt="Pink T-Rex jumping over blocks" src="https://raw.githubusercontent.com/ptr25/ptr25/main/dino-dark.svg">
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/trex-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ptr25/ptr25/main/trex-light.svg">
+  <img alt="Light pink T-Rex jumping over blocks" src="https://raw.githubusercontent.com/ptr25/ptr25/main/trex-dark.svg">
 </picture>
 
 #### Confidence Key
