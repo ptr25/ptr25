@@ -1,0 +1,94 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 800 220" width="800" height="220" role="img" aria-label="Pink T-Rex jumping over blocks">
+  <style>
+    .bg{fill:#ffffff}
+    .pink{fill:#ff69b4}
+    .eye{fill:#24292f}
+    .ground{stroke:#d0d7de;stroke-width:3}
+    .dash{fill:#d0d7de}
+    .scroll{animation:scroll 4s linear infinite}
+    @keyframes scroll{from{transform:translateX(0)}to{transform:translateX(-1000px)}}
+    .gscroll{animation:gscroll .16s linear infinite}
+    @keyframes gscroll{from{transform:translateX(0)}to{transform:translateX(-40px)}}
+    .jump{animation:jump 4s infinite}
+    @keyframes jump{
+      0%,6.25%{transform:translateY(0);animation-timing-function:ease-out}
+      15%{transform:translateY(-72px);animation-timing-function:ease-in}
+      23.75%,41.25%{transform:translateY(0);animation-timing-function:ease-out}
+      50%{transform:translateY(-72px);animation-timing-function:ease-in}
+      58.75%,76.25%{transform:translateY(0);animation-timing-function:ease-out}
+      85%{transform:translateY(-72px);animation-timing-function:ease-in}
+      93.75%,100%{transform:translateY(0)}
+    }
+    .bob{animation:bob .32s ease-in-out infinite}
+    @keyframes bob{0%,100%{transform:translateY(0)}50%{transform:translateY(-2px)}}
+    .leg-a{animation:legA .32s infinite}
+    .leg-b{animation:legB .32s infinite}
+    @keyframes legA{0%{opacity:1;animation-timing-function:step-end}50%{opacity:0;animation-timing-function:step-end}100%{opacity:0}}
+    @keyframes legB{0%{opacity:0;animation-timing-function:step-end}50%{opacity:1;animation-timing-function:step-end}100%{opacity:1}}
+  </style>
+
+  <rect class="bg" x="0" y="0" width="800" height="220"/>
+
+  <g class="scroll">
+    <rect class="pink" x="230" y="156" width="18" height="24" rx="2"/>
+    <rect class="pink" x="580" y="140" width="20" height="40" rx="2"/>
+    <rect class="pink" x="930" y="152" width="24" height="28" rx="2"/>
+    <rect class="pink" x="1230" y="156" width="18" height="24" rx="2"/>
+    <rect class="pink" x="1580" y="140" width="20" height="40" rx="2"/>
+    <rect class="pink" x="1930" y="152" width="24" height="28" rx="2"/>
+  </g>
+
+  <line class="ground" x1="0" y1="181" x2="800" y2="181"/>
+  <g class="gscroll">
+    <rect class="dash" x="-40" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="0" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="40" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="80" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="120" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="160" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="200" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="240" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="280" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="320" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="360" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="400" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="440" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="480" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="520" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="560" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="600" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="640" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="680" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="720" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="760" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="800" y="187" width="14" height="4" rx="2"/>
+    <rect class="dash" x="840" y="187" width="14" height="4" rx="2"/>
+  </g>
+
+  <g class="jump">
+    <g class="bob">
+      <rect class="pink" x="44" y="146" width="14" height="8" rx="2"/>
+      <rect class="pink" x="54" y="150" width="16" height="16" rx="2"/>
+      <rect class="pink" x="66" y="146" width="34" height="24" rx="4"/>
+      <rect class="pink" x="92" y="134" width="16" height="22" rx="3"/>
+      <rect class="pink" x="98" y="124" width="28" height="18" rx="4"/>
+      <rect class="pink" x="98" y="140" width="20" height="8" rx="3"/>
+      <rect class="bg" x="104" y="136" width="24" height="4"/>
+      <rect class="eye" x="114" y="127" width="5" height="6" rx="1"/>
+      <rect class="pink" x="96" y="154" width="12" height="5" rx="2"/>
+      <rect class="pink" x="104" y="157" width="5" height="7" rx="2"/>
+      <g class="leg-a">
+        <rect class="pink" x="70" y="164" width="8" height="14"/>
+        <rect class="pink" x="64" y="175" width="16" height="5" rx="2"/>
+        <rect class="pink" x="86" y="164" width="8" height="14"/>
+        <rect class="pink" x="86" y="175" width="16" height="5" rx="2"/>
+      </g>
+      <g class="leg-b">
+        <rect class="pink" x="76" y="164" width="8" height="14"/>
+        <rect class="pink" x="72" y="175" width="14" height="5" rx="2"/>
+        <rect class="pink" x="84" y="164" width="8" height="14"/>
+        <rect class="pink" x="84" y="175" width="14" height="5" rx="2"/>
+      </g>
+    </g>
+  </g>
+</svg>
