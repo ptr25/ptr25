@@ -1,6 +1,6 @@
 <img src="https://raw.githubusercontent.com/ptr25/ptr25/main/hello-pink.svg" alt="hello world - im pranathi" width="660">
 
-❀° Im just a girl °❀⋆
+❀° I'm just a girl °❀⋆
 
 ༘˚⋆𐙚｡ I am a 3rd year btech in cse at Indian Institute of Information Technology Kottayam  ᝰ.ᐟ
 
