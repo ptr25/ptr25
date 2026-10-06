@@ -12,7 +12,7 @@
 
 ### Languages
 
-![](https://img.shields.io/badge/GO-ff69b4?style=for-the-badge&logo=go&logoColor=00ADD8) ![](https://img.shields.io/badge/CEL-ff69b4?style=for-the-badge) ![](https://img.shields.io/badge/%25_%5F-ZSH-ffb3d9?style=for-the-badge&labelColor=ffb3d9) ![](https://img.shields.io/badge/DART-ff69b4?style=for-the-badge&logo=dart&logoColor=ffffff)
+![](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=ffffff) ![](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=ffffff) ![](https://img.shields.io/badge/Python-ffb3d9?style=for-the-badge&logo=python&logoColor=1B1B1B) ![](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=ffffff) ![](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=ffffff) ![](https://img.shields.io/badge/React-ffb3d9?style=for-the-badge&logo=react&logoColor=1B1B1B) ![](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=ffffff)
 
 ### Frameworks
 
