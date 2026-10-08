@@ -14,11 +14,11 @@
 
 ### Languages
 
-![](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=ffffff) ![](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=ffffff) ![](https://img.shields.io/badge/Python-ffb3d9?style=for-the-badge&logo=python&logoColor=1B1B1B) ![](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=ffffff) ![](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=ffffff) ![](https://img.shields.io/badge/React-ffb3d9?style=for-the-badge&logo=react&logoColor=1B1B1B) ![](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=ffffff) ![](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=ffffff) ![](https://img.shields.io/badge/Python-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ffb3d9?style=for-the-badge&labelColor=ffb3d9&logo=python&logoColor=1B1B1B) ![](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=ffffff) ![](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=ffffff) ![](https://img.shields.io/badge/React-ffb3d9?style=for-the-badge&logo=react&logoColor=1B1B1B) ![](https://img.shields.io/badge/TypeScript-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff69b4?style=for-the-badge&labelColor=ff69b4&logo=typescript&logoColor=ffffff)
 
 ### Frameworks
 
-![](https://img.shields.io/badge/FLUTTER-ffb3d9?style=for-the-badge&logo=flutter&logoColor=212121) ![](https://img.shields.io/badge/HUGO-ff69b4?style=for-the-badge&logo=hugo&logoColor=ffffff)
+![](https://img.shields.io/badge/FLUTTER-ffb3d9?style=for-the-badge&logo=flutter&logoColor=212121) ![](https://img.shields.io/badge/HUGO-ff69b4?style=for-the-badge&logo=hugo&logoColor=ffffff) ![](https://img.shields.io/badge/React%20Native-%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ffb3d9?style=for-the-badge&labelColor=ffb3d9&logo=react&logoColor=1B1B1B)
 
 ### App Developement
 
