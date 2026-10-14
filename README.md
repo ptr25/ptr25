@@ -10,26 +10,28 @@
 
 #### Confidence Key
 
-![](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85%E2%98%85%E2%98%85-ff69b4?style=for-the-badge) ![](https://img.shields.io/badge/%E2%98%85%E2%98%85%E2%98%85-ffb3d9?style=for-the-badge)
+Fuchsia: ★★★★★ · Baby pink: ★★★
+
+![★★★★★](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-01.svg) ![★★★](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-02.svg)
 
 ### Languages
 
-![](https://img.shields.io/badge/C-ff69b4?style=for-the-badge&logo=c&logoColor=ffffff) ![](https://img.shields.io/badge/C++-ff69b4?style=for-the-badge&logo=cplusplus&logoColor=ffffff) ![](https://img.shields.io/badge/Python-ff69b4?style=for-the-badge&logo=python&logoColor=ffffff) ![](https://img.shields.io/badge/Java-ff69b4?style=for-the-badge&logo=openjdk&logoColor=ffffff) ![](https://img.shields.io/badge/JavaScript-ff69b4?style=for-the-badge&logo=javascript&logoColor=ffffff) ![](https://img.shields.io/badge/React-ffb3d9?style=for-the-badge&logo=react&logoColor=1B1B1B) ![](https://img.shields.io/badge/TypeScript-ff69b4?style=for-the-badge&logo=typescript&logoColor=ffffff)
+![C](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-03.svg) ![C++](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-04.svg) ![PYTHON](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-05.svg) ![JAVA](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-06.svg) ![JAVASCRIPT](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-07.svg) ![REACT](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-08.svg) ![TYPESCRIPT](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-09.svg)
 
 ### Frameworks
 
-![](https://img.shields.io/badge/FLUTTER-ffb3d9?style=for-the-badge&logo=flutter&logoColor=212121) ![](https://img.shields.io/badge/HUGO-ff69b4?style=for-the-badge&logo=hugo&logoColor=ffffff) ![](https://img.shields.io/badge/React%20Native-ffb3d9?style=for-the-badge&logo=react&logoColor=1B1B1B)
+![FLUTTER](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-10.svg) ![HUGO](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-11.svg) ![REACT NATIVE](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-12.svg)
 
 ### App Developement
 
-![](https://raw.githubusercontent.com/ptr25/ptr25/main/badge-ios.svg) ![](https://img.shields.io/badge/%E2%88%9E-WEB-ff69b4?style=for-the-badge&labelColor=ff69b4)
+![](https://raw.githubusercontent.com/ptr25/ptr25/main/badge-ios.svg) ![∞: WEB](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-13.svg)
 
 ### Firebase
 
-![](https://img.shields.io/badge/AUTHENTICATION-ff69b4?style=for-the-badge&logo=firebase&logoColor=ffffff) ![](https://img.shields.io/badge/CLOUDFUNCTIONS-ff69b4?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![AUTHENTICATION](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-14.svg) ![CLOUDFUNCTIONS](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-15.svg)
 
-![](https://img.shields.io/badge/APPHOSTING-ff69b4?style=for-the-badge&logo=firebase&logoColor=ffffff) ![](https://img.shields.io/badge/MESSAGING-ffb3d9?style=for-the-badge&logo=firebase&logoColor=ffffff)
+![APPHOSTING](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-16.svg) ![MESSAGING](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-17.svg)
 
 ### UX/UI
 
-![](https://img.shields.io/badge/FIGMA-ffb3d9?style=for-the-badge&logo=figma&logoColor=F24E1E) ![](https://img.shields.io/badge/-WIX-ffb3d9?style=for-the-badge&labelColor=ffb3d9&logo=wix&logoColor=1B1B1B)
+![FIGMA](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-18.svg) ![WIX](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-19.svg)
