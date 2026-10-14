@@ -8,7 +8,7 @@
   <img alt="Light pink T-Rex jumping over blocks" src="https://raw.githubusercontent.com/ptr25/ptr25/main/trex-dark.svg">
 </picture>
 
-#### Confidence Key\
+#### Confidence Key
 
 ![★★★★★](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-01.svg) ![★★★](https://raw.githubusercontent.com/ptr25/ptr25/main/assets/skills/badge-02.svg)
 
